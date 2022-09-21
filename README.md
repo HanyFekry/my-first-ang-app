@@ -1,2 +1,0 @@
-# myFirstAngApp
-F Angular App
